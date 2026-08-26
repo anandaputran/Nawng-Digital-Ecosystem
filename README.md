@@ -6,7 +6,7 @@ A portfolio case study documenting the evolution of Nawng Indonesia's digital pr
 
 ## Project Journey
 
-01 — Nawng Indonesia Company Profile
+### 01 — Nawng Indonesia Company Profile
 
 **Context:** P2MW Program<br>
 **Role:** Web Developer<br>
@@ -19,7 +19,8 @@ My contribution focused on developing and organizing the website interface and p
 
 This website later became the foundation for further development, including the integration of chatbot assistance during my internship at Nawng Indonesia.
 
-Source Code: Nawng Indonesia Company Profile
+**Source Code:** [Nawng Indonesia Company Profile](https://github.com/anandaputran/nawng)
+
 
 ### 02 — Nawng Chatbot Assistance
 
