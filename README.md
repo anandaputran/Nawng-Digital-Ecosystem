@@ -29,7 +29,7 @@ This website later became the foundation for further development, including the 
   <img src="assets/company-profile/company-profile-services.png" width="800" alt="Nawng Indonesia Services Section">
 </p>
 
-**Live Website:** [View Nawng Indonesia Website](https://anandaputran.github.io/nawng/)
+**Live Website:** [View Nawng Indonesia Website](https://anandaputran.github.io/nawng/)<br>
 **Source Code:** [Nawng Indonesia Company Profile](https://github.com/anandaputran/nawng)
 
 
@@ -56,7 +56,7 @@ This phase extended the website from a primarily informational company profile i
   <img src="assets/chatbot/chatbot-flowise-workflow.png" width="800" alt="Flowise workflow used for Nawng chatbot assistance">
 </p>
 
-**Live Integration:** [View Chatbot Interface on Website](https://anandaputran.github.io/nawng/)
+**Live Integration:** [View Chatbot Interface on Website](https://anandaputran.github.io/nawng/)<br>
 **Implementation Repository:** [Nawng Chatbot Assistance](https://github.com/anandaputran/chatbot_nawng)
 
 > **Note:** The chatbot interface remains available on the live website, but LLM responses are currently unavailable because the Flowise backend was hosted locally during development.
