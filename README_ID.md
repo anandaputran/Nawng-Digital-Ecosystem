@@ -29,6 +29,7 @@ Website ini kemudian menjadi fondasi untuk pengembangan selanjutnya, yaitu integ
   <img src="assets/company-profile/company-profile-services.png" width="800" alt="Bagian Layanan Nawng Indonesia">
 </p>
 
+**Website Live:** [Lihat Website Nawng Indonesia](https://anandaputran.github.io/nawng/)
 **Source Code:** [Nawng Indonesia Company Profile](https://github.com/anandaputran/nawng)
 
 
@@ -55,10 +56,26 @@ Fase ini mengembangkan website yang sebelumnya lebih berfungsi sebagai media inf
   <img src="assets/chatbot/chatbot-flowise-workflow.png" width="800" alt="Workflow Flowise yang digunakan untuk chatbot assistance Nawng">
 </p>
 
+**Integrasi Live:** [Lihat Antarmuka Chatbot pada Website](https://anandaputran.github.io/nawng/)
 **Repository Implementasi:** [Nawng Chatbot Assistance](https://github.com/anandaputran/chatbot_nawng)
+
+**Catatan:** Antarmuka chatbot masih tersedia pada website live, tetapi respons LLM saat ini tidak aktif karena backend Flowise dijalankan secara lokal selama proses pengembangan.
 
 
 ### 03 — Nawng Academy
 
-**Konteks:** Tugas Akhir
-**Fokus:** UI/UX Design & Pengembangan Aplikasi Mobile Android
+**Konteks:** Tugas Akhir<br>
+**Peran:** UI/UX Designer & Mobile App Developer<br>
+**Jenis Project:** Aplikasi Pembelajaran Android<br>
+**Teknologi:** FlutterFlow, Firebase, Supabase<br>
+**Metodologi:** Lean UX
+
+Nawng Academy awalnya telah hadir sebagai bagian dari konsep website Nawng Indonesia. Setelah muncul masukan internal bahwa Nawng dapat dikembangkan menjadi sebuah platform tersendiri, ide tersebut kemudian saya kembangkan lebih lanjut menjadi aplikasi pembelajaran Android standalone sebagai tugas akhir.
+
+Aplikasi dirancang, dibuat prototipenya, dan dikembangkan langsung menggunakan FlutterFlow sehingga proses perancangan antarmuka dan pembangunan aplikasi dapat dilakukan dalam satu environment.
+
+Nawng Academy dikembangkan sebagai platform pembelajaran digital bagi UMKM dan pelaku usaha, dengan menyediakan akses terhadap konten edukasi seperti e-book dan materi pembelajaran digital.
+
+Proses pengembangannya menerapkan metodologi Lean UX, mulai dari identifikasi asumsi dan kebutuhan pengguna, perancangan antarmuka, pembangunan aplikasi, hingga evaluasi usability.
+
+**Source Code:** [Nawng Academy](https://github.com/anandaputran/Nawng-Academy)
