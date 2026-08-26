@@ -5,6 +5,7 @@
 A portfolio case study documenting the evolution of Nawng Indonesia's digital products—from a company profile website, to chatbot assistance, and eventually the Nawng Academy Android application.
 
 ## Project Journey
+**P2MW — Company Profile** → **Internship — Chatbot Assistance** → **Final Project — Nawng Academy**
 
 ### 01 — Nawng Indonesia Company Profile
 
@@ -32,6 +33,8 @@ This website later became the foundation for further development, including the 
 **Live Website:** [View Nawng Indonesia Website](https://anandaputran.github.io/nawng/)<br>
 **Source Code:** [Nawng Indonesia Company Profile](https://github.com/anandaputran/nawng)
 
+
+---
 
 ### 02 — Nawng Chatbot Assistance
 
@@ -62,6 +65,8 @@ This phase extended the website from a primarily informational company profile i
 > **Note:** The chatbot interface remains available on the live website, but LLM responses are currently unavailable because the Flowise backend was hosted locally during development.
 
 
+---
+
 ### 03 — Nawng Academy
 
 **Context:** Final Project<br>
@@ -88,7 +93,7 @@ The development process applied the Lean UX methodology, from identifying assump
   <img src="assets/nawng-academy/academy-home.jpg" width="200" alt="Nawng Academy home screen">
 </p>
 
-#### Ebook Access Flow
+#### E-book Access Flow
 
 <p align="center">
   <img src="assets/nawng-academy/academy-ebook-detail.jpg" width="220" alt="Ebook detail before access">
@@ -96,9 +101,7 @@ The development process applied the Lean UX methodology, from identifying assump
   <img src="assets/nawng-academy/academy-ebook-download.jpg" width="220" alt="Ebook detail with download access">
 </p>
 
-<p align="center">
-  <em>Ebook detail before access and after download access becomes available.</em>
-</p>
+<em>Comparison of the e-book detail screen before and after download access becomes available.</em>
 
 #### Admin Application
 

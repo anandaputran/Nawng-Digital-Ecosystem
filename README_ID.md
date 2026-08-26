@@ -5,6 +5,7 @@
 Studi kasus portofolio yang mendokumentasikan perkembangan produk digital Nawng Indonesia—mulai dari website company profile, chatbot assistance, hingga akhirnya berkembang menjadi aplikasi Android Nawng Academy.
 
 ## Perjalanan Project
+**P2MW — Company Profile** → **Magang — Chatbot Assistance** → **Tugas Akhir — Nawng Academy**
 
 ### 01 — Nawng Indonesia Company Profile
 
@@ -32,6 +33,8 @@ Website ini kemudian menjadi fondasi untuk pengembangan selanjutnya, yaitu integ
 **Website Live:** [Lihat Website Nawng Indonesia](https://anandaputran.github.io/nawng/)<br>
 **Source Code:** [Nawng Indonesia Company Profile](https://github.com/anandaputran/nawng)
 
+
+---
 
 ### 02 — Nawng Chatbot Assistance
 
@@ -62,6 +65,8 @@ Fase ini mengembangkan website yang sebelumnya lebih berfungsi sebagai media inf
 > **Catatan:** Antarmuka chatbot masih tersedia pada website live, tetapi respons LLM saat ini tidak aktif karena backend Flowise dijalankan secara lokal selama proses pengembangan.
 
 
+---
+
 ### 03 — Nawng Academy
 
 **Konteks:** Tugas Akhir<br>
@@ -78,7 +83,7 @@ Nawng Academy dikembangkan sebagai platform pembelajaran digital bagi UMKM dan p
 
 Proses pengembangannya menerapkan metodologi Lean UX, mulai dari identifikasi asumsi dan kebutuhan pengguna, perancangan antarmuka, pembangunan aplikasi, hingga evaluasi usability.
 
-#### Application Preview
+#### Preview Aplikasi
 
 <p align="center">
   <img src="assets/nawng-academy/academy-onboarding.jpg" width="200" alt="Nawng Academy onboarding">
@@ -88,7 +93,7 @@ Proses pengembangannya menerapkan metodologi Lean UX, mulai dari identifikasi as
   <img src="assets/nawng-academy/academy-home.jpg" width="200" alt="Nawng Academy home screen">
 </p>
 
-#### Ebook Access Flow
+#### Alur Akses E-book
 
 <p align="center">
   <img src="assets/nawng-academy/academy-ebook-detail.jpg" width="220" alt="Ebook detail before access">
@@ -100,7 +105,7 @@ Proses pengembangannya menerapkan metodologi Lean UX, mulai dari identifikasi as
   <em>Perbandingan tampilan detail e-book sebelum dan setelah akses unduhan tersedia.</em>
 </p>
 
-#### Admin Application
+#### Aplikasi Admin
 
 <p align="center">
   <img src="assets/nawng-academy/academy-admin-home.jpg" width="200" alt="Nawng Academy admin home">
