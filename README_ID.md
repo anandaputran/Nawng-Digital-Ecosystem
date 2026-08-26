@@ -45,6 +45,16 @@ Kontribusi saya berfokus pada pembuatan workflow chatbot menggunakan FlowiseAI s
 
 Fase ini mengembangkan website yang sebelumnya lebih berfungsi sebagai media informasi menjadi pengalaman digital yang lebih interaktif.
 
+#### Tampilan Chatbot
+
+<p align="center">
+  <img src="assets/chatbot/chatbot-live-preview.png" width="800" alt="Chatbot Nawng yang terintegrasi pada website company profile">
+</p>
+
+<p align="center">
+  <img src="assets/chatbot/chatbot-flowise-workflow.png" width="800" alt="Workflow Flowise yang digunakan untuk chatbot assistance Nawng">
+</p>
+
 **Repository Implementasi:** [Nawng Chatbot Assistance](https://github.com/anandaputran/chatbot_nawng)
 
 

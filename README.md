@@ -45,6 +45,16 @@ My contribution focused on building the chatbot workflow using FlowiseAI and int
 
 This phase extended the website from a primarily informational company profile into a more interactive digital experience.
 
+#### Preview
+
+<p align="center">
+  <img src="assets/chatbot/chatbot-live-preview.png" width="800" alt="Nawng Chatbot integrated into the company website">
+</p>
+
+<p align="center">
+  <img src="assets/chatbot/chatbot-flowise-workflow.png" width="800" alt="Flowise workflow used for Nawng chatbot assistance">
+</p>
+
 **Implementation Repository:** [Nawng Chatbot Assistance](https://github.com/anandaputran/chatbot_nawng)
 
 
