@@ -19,6 +19,16 @@ My contribution focused on developing and organizing the website interface and p
 
 This website later became the foundation for further development, including the integration of chatbot assistance during my internship at Nawng Indonesia.
 
+#### Preview
+
+<p align="center">
+  <img src="assets/company-profile/company-profile-home.png" width="800" alt="Nawng Indonesia Company Profile Homepage">
+</p>
+
+<p align="center">
+  <img src="assets/company-profile/company-profile-services.png" width="800" alt="Nawng Indonesia Services Section">
+</p>
+
 **Source Code:** [Nawng Indonesia Company Profile](https://github.com/anandaputran/nawng)
 
 

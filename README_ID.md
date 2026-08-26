@@ -19,6 +19,16 @@ Kontribusi saya berfokus pada pengembangan dan penyusunan tampilan website serta
 
 Website ini kemudian menjadi fondasi untuk pengembangan selanjutnya, yaitu integrasi chatbot assistance ketika saya menjalani program magang di Nawng Indonesia.
 
+#### Tampilan Website
+
+<p align="center">
+  <img src="assets/company-profile/company-profile-home.png" width="800" alt="Homepage Company Profile Nawng Indonesia">
+</p>
+
+<p align="center">
+  <img src="assets/company-profile/company-profile-services.png" width="800" alt="Bagian Layanan Nawng Indonesia">
+</p>
+
 **Source Code:** [Nawng Indonesia Company Profile](https://github.com/anandaputran/nawng)
 
 
