@@ -8,9 +8,9 @@ Studi kasus portofolio yang mendokumentasikan perkembangan produk digital Nawng 
 
 ### 01 — Nawng Indonesia Company Profile
 
-**Konteks:** Program P2MW
-**Peran:** Web Developer
-**Jenis Project:** Website Company Profile
+**Konteks:** Program P2MW<br>
+**Peran:** Web Developer<br>
+**Jenis Project:** Website Company Profile<br>
 **Teknologi:** HTML, CSS, JavaScript
 
 Website company profile Nawng Indonesia merupakan fase awal dari perjalanan project ini. Website tersebut dikembangkan selama program P2MW sebagai media digital untuk memperkenalkan Nawng Indonesia dan layanan yang ditawarkan melalui platform berbasis web.
