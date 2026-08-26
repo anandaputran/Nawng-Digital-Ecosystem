@@ -59,7 +59,7 @@ Fase ini mengembangkan website yang sebelumnya lebih berfungsi sebagai media inf
 **Integrasi Live:** [Lihat Antarmuka Chatbot pada Website](https://anandaputran.github.io/nawng/)<br>
 **Repository Implementasi:** [Nawng Chatbot Assistance](https://github.com/anandaputran/chatbot_nawng)
 
-**Catatan:** Antarmuka chatbot masih tersedia pada website live, tetapi respons LLM saat ini tidak aktif karena backend Flowise dijalankan secara lokal selama proses pengembangan.
+> **Catatan:** Antarmuka chatbot masih tersedia pada website live, tetapi respons LLM saat ini tidak aktif karena backend Flowise dijalankan secara lokal selama proses pengembangan.
 
 
 ### 03 — Nawng Academy
@@ -67,7 +67,7 @@ Fase ini mengembangkan website yang sebelumnya lebih berfungsi sebagai media inf
 **Konteks:** Tugas Akhir<br>
 **Peran:** UI/UX Designer & Mobile App Developer<br>
 **Jenis Project:** Aplikasi Pembelajaran Android<br>
-**Teknologi:** FlutterFlow, Firebase, Supabase<br>
+**Teknologi:** FlutterFlow, Firebase Authentication, Supabase Storage<br>
 **Metodologi:** Lean UX
 
 Nawng Academy awalnya telah hadir sebagai bagian dari konsep website Nawng Indonesia. Setelah muncul masukan internal bahwa Nawng dapat dikembangkan menjadi sebuah platform tersendiri, ide tersebut kemudian saya kembangkan lebih lanjut menjadi aplikasi pembelajaran Android standalone sebagai tugas akhir.
@@ -78,4 +78,47 @@ Nawng Academy dikembangkan sebagai platform pembelajaran digital bagi UMKM dan p
 
 Proses pengembangannya menerapkan metodologi Lean UX, mulai dari identifikasi asumsi dan kebutuhan pengguna, perancangan antarmuka, pembangunan aplikasi, hingga evaluasi usability.
 
+#### Application Preview
+
+<p align="center">
+  <img src="assets/nawng-academy/academy-onboarding.jpg" width="200" alt="Nawng Academy onboarding">
+  &nbsp;
+  <img src="assets/nawng-academy/academy-login.jpg" width="200" alt="Nawng Academy login">
+  &nbsp;
+  <img src="assets/nawng-academy/academy-home.jpg" width="200" alt="Nawng Academy home screen">
+</p>
+
+#### Ebook Access Flow
+
+<p align="center">
+  <img src="assets/nawng-academy/academy-ebook-detail.jpg" width="220" alt="Ebook detail before access">
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/nawng-academy/academy-ebook-download.jpg" width="220" alt="Ebook detail with download access">
+</p>
+
+<p align="center">
+  <em>Perbandingan tampilan detail e-book sebelum dan setelah akses unduhan tersedia.</em>
+</p>
+
+#### Admin Application
+
+<p align="center">
+  <img src="assets/nawng-academy/academy-admin-home.jpg" width="200" alt="Nawng Academy admin home">
+  &nbsp;
+  <img src="assets/nawng-academy/academy-admin-add-ebook.jpg" width="200" alt="Nawng Academy add ebook interface">
+  &nbsp;
+  <img src="assets/nawng-academy/academy-admin-users.jpg" width="200" alt="Nawng Academy user management interface">
+</p>
+
+<p align="center">
+  <em>Aplikasi administrator terpisah untuk mengelola konten e-book dan pengguna terdaftar.</em>
+</p>
+
 **Source Code:** [Nawng Academy](https://github.com/anandaputran/Nawng-Academy)
+
+#### Preview Interaktif
+
+**Aplikasi User:** [Buka Preview Nawng Academy](https://app.flutterflow.io/preview/nawng-academy-eyjid0?page=Intro)<br>
+**Aplikasi Admin:** [Buka Preview Nawng Academy Admin](https://app.flutterflow.io/preview/nawng-academy-admin-4i4jv8?page=Intro)
+
+> **Catatan:** Link ini menyediakan preview interaktif dari antarmuka aplikasi. Beberapa fitur aplikasi mungkin memerlukan layanan backend atau build Android agar dapat berfungsi sepenuhnya.

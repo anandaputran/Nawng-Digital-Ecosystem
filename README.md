@@ -67,7 +67,7 @@ This phase extended the website from a primarily informational company profile i
 **Context:** Final Project<br>
 **Role:** UI/UX Designer & Mobile App Developer<br>
 **Type:** Android Learning Application<br>
-**Technologies:** FlutterFlow, Firebase, Supabase<br>
+**Technologies:** FlutterFlow, Firebase Authentication, Supabase Storage<br>
 **Methodology:** Lean UX
 
 Nawng Academy initially existed as part of the Nawng Indonesia website concept. Following an internal suggestion that Nawng could benefit from having its own dedicated platform, I further developed the idea into a standalone Android learning application as my final project.
@@ -78,4 +78,47 @@ Nawng Academy was developed as a digital learning platform for MSMEs and entrepr
 
 The development process applied the Lean UX methodology, from identifying assumptions and user needs to designing the interface, building the application, and conducting usability evaluation.
 
+#### Application Preview
+
+<p align="center">
+  <img src="assets/nawng-academy/academy-onboarding.jpg" width="200" alt="Nawng Academy onboarding">
+  &nbsp;
+  <img src="assets/nawng-academy/academy-login.jpg" width="200" alt="Nawng Academy login">
+  &nbsp;
+  <img src="assets/nawng-academy/academy-home.jpg" width="200" alt="Nawng Academy home screen">
+</p>
+
+#### Ebook Access Flow
+
+<p align="center">
+  <img src="assets/nawng-academy/academy-ebook-detail.jpg" width="220" alt="Ebook detail before access">
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/nawng-academy/academy-ebook-download.jpg" width="220" alt="Ebook detail with download access">
+</p>
+
+<p align="center">
+  <em>Ebook detail before access and after download access becomes available.</em>
+</p>
+
+#### Admin Application
+
+<p align="center">
+  <img src="assets/nawng-academy/academy-admin-home.jpg" width="200" alt="Nawng Academy admin home">
+  &nbsp;
+  <img src="assets/nawng-academy/academy-admin-add-ebook.jpg" width="200" alt="Nawng Academy add ebook interface">
+  &nbsp;
+  <img src="assets/nawng-academy/academy-admin-users.jpg" width="200" alt="Nawng Academy user management interface">
+</p>
+
+<p align="center">
+  <em>Separate administrator application for managing ebook content and registered users.</em>
+</p>
+
 **Source Code:** [Nawng Academy](https://github.com/anandaputran/Nawng-Academy)
+
+#### Interactive Preview
+
+**User Application:** [Open Nawng Academy Preview](https://app.flutterflow.io/preview/nawng-academy-eyjid0?page=Intro)<br>
+**Admin Application:** [Open Nawng Academy Admin Preview](https://app.flutterflow.io/preview/nawng-academy-admin-4i4jv8?page=Intro)
+
+> **Note:** These links provide an interactive preview of the application interface. Some application features may require backend services or an installed Android build to function completely.
