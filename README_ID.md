@@ -34,8 +34,19 @@ Website ini kemudian menjadi fondasi untuk pengembangan selanjutnya, yaitu integ
 
 ### 02 — Nawng Chatbot Assistance
 
-**Konteks:** Magang Web Developer
-**Fokus:** AI-powered Website Assistance
+**Konteks:** Magang Web Developer<br>
+**Peran:** Web Developer Intern<br>
+**Jenis Project:** Website Chatbot Assistance<br>
+**Teknologi:** FlowiseAI
+
+Selama menjalani program magang di Nawng Indonesia, website company profile kemudian dikembangkan lebih lanjut dengan mengintegrasikan chatbot assistance untuk memberikan cara yang lebih interaktif bagi pengguna dalam memperoleh informasi mengenai perusahaan dan layanan yang tersedia.
+
+Kontribusi saya berfokus pada pembuatan workflow chatbot menggunakan FlowiseAI serta integrasi antarmuka chatbot ke dalam website Nawng Indonesia yang telah ada.
+
+Fase ini mengembangkan website yang sebelumnya lebih berfungsi sebagai media informasi menjadi pengalaman digital yang lebih interaktif.
+
+**Repository Implementasi:** [Nawng Chatbot Assistance](https://github.com/anandaputran/chatbot_nawng)
+
 
 ### 03 — Nawng Academy
 

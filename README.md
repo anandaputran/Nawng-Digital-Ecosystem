@@ -34,8 +34,19 @@ This website later became the foundation for further development, including the 
 
 ### 02 — Nawng Chatbot Assistance
 
-**Context:** Web Developer Internship
-**Focus:** AI-powered Website Assistance
+**Context:** Web Developer Internship<br>
+**Role:** Web Developer Intern<br>
+**Type:** Website Chatbot Assistance<br>
+**Technology:** FlowiseAI
+
+During my internship at Nawng Indonesia, the company profile website was further developed by integrating chatbot assistance to provide users with a more interactive way to access information about the company and its services.
+
+My contribution focused on building the chatbot workflow using FlowiseAI and integrating the chatbot interface into the existing Nawng Indonesia website.
+
+This phase extended the website from a primarily informational company profile into a more interactive digital experience.
+
+**Implementation Repository:** [Nawng Chatbot Assistance](https://github.com/anandaputran/chatbot_nawng)
+
 
 ### 03 — Nawng Academy
 
