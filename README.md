@@ -9,14 +9,14 @@ A portfolio case study documenting the evolution of Nawng Indonesia's digital pr
 
 ### 01 — Nawng Indonesia Company Profile
 
-**Context:** P2MW Program<br>
+**Context:** P2MW (Student Entrepreneurship Development Program), an Indonesian government-supported entrepreneurship program for university students<br>
 **Role:** Web Developer<br>
 **Type:** Company Profile Website<br>
-**Technologies:** HTML, CSS, JavaScript
+**Technologies:** Bootstrap-based HTML/CSS/JavaScript, PHP (PHPMailer)
 
 The Nawng Indonesia company profile website was the first phase of this project journey. It was developed during the P2MW program to establish a digital presence for Nawng Indonesia and introduce the company's services through a web-based platform.
 
-My contribution focused on developing and organizing the website interface and presenting company information in a clear and accessible structure.
+The website used a Bootstrap-based template that I customized to match Nawng Indonesia's branding and content needs. My contribution focused on adapting the interface and page structure, organizing company information, and implementing the Contact Us email feature using PHP and PHPMailer.
 
 This website later became the foundation for further development, including the integration of chatbot assistance during my internship at Nawng Indonesia.
 

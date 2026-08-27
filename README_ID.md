@@ -9,14 +9,14 @@ Studi kasus portofolio yang mendokumentasikan perkembangan produk digital Nawng 
 
 ### 01 — Nawng Indonesia Company Profile
 
-**Konteks:** Program P2MW<br>
+**Konteks:** Program Pembinaan Mahasiswa Wirausaha (P2MW) – Kemendikbud<br>
 **Peran:** Web Developer<br>
 **Jenis Project:** Website Company Profile<br>
-**Teknologi:** HTML, CSS, JavaScript
+**Teknologi:** Bootstrap-based HTML/CSS/JavaScript, PHP (PHPMailer)
 
 Website company profile Nawng Indonesia merupakan fase awal dari perjalanan project ini. Website tersebut dikembangkan selama program P2MW sebagai media digital untuk memperkenalkan Nawng Indonesia dan layanan yang ditawarkan melalui platform berbasis web.
 
-Kontribusi saya berfokus pada pengembangan dan penyusunan tampilan website serta penyajian informasi perusahaan agar memiliki struktur yang jelas dan mudah dipahami.
+Website menggunakan template berbasis Bootstrap yang kemudian saya sesuaikan dengan identitas visual dan kebutuhan konten Nawng Indonesia. Kontribusi saya berfokus pada penyesuaian antarmuka dan struktur halaman, penyusunan informasi perusahaan, serta implementasi fitur pengiriman email pada halaman Contact Us menggunakan PHP dan PHPMailer.
 
 Website ini kemudian menjadi fondasi untuk pengembangan selanjutnya, yaitu integrasi chatbot assistance ketika saya menjalani program magang di Nawng Indonesia.
 
